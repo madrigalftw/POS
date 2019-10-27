@@ -1,2 +1,2 @@
 # POS
-Point of sales program to implement programming techniques.
+Simple point of sales program.
